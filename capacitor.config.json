@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "dasiloy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
